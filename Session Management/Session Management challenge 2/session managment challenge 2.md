@@ -60,7 +60,7 @@ You can inspect the HTTP request that was sent when logging in (screenshot attac
 ## Step 5: Forwarding the request & getting the result key
 In Burp Suite, click **'Forward'** to allow the request.
 
-Success! We got the result key! 
+Great job! We got the result key! 
 
 ![Security Shepherd Screenshot](./7_result_key.png)
 
